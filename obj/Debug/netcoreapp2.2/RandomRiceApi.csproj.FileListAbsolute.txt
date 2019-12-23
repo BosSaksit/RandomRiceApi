@@ -1,0 +1,14 @@
+D:\Work\RandomRiceApi\bin\Debug\netcoreapp2.2\RandomRiceApi.deps.json
+D:\Work\RandomRiceApi\bin\Debug\netcoreapp2.2\RandomRiceApi.runtimeconfig.json
+D:\Work\RandomRiceApi\bin\Debug\netcoreapp2.2\RandomRiceApi.runtimeconfig.dev.json
+D:\Work\RandomRiceApi\bin\Debug\netcoreapp2.2\RandomRiceApi.dll
+D:\Work\RandomRiceApi\bin\Debug\netcoreapp2.2\RandomRiceApi.pdb
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.csprojAssemblyReference.cache
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.csproj.CoreCompileInputs.cache
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.RazorAssemblyInfo.cache
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.RazorAssemblyInfo.cs
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.AssemblyInfoInputs.cache
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.AssemblyInfo.cs
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.RazorTargetAssemblyInfo.cache
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.dll
+D:\Work\RandomRiceApi\obj\Debug\netcoreapp2.2\RandomRiceApi.pdb
